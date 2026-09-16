@@ -1,0 +1,2 @@
+Time_s,Pump_PWM_pct,Flow_L_min,Level_mm,Tank_T_C,Inlet_T_C,Heater_Duty,Valve_Position
+0,0,0,80,25,25,0,0.55

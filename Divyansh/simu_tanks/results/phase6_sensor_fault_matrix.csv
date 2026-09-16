@@ -1,0 +1,5 @@
+Fault,Injected_at_s,Fault_latched_at_s,Max_Pump_After_Trip_pct,Max_Heater_After_Trip
+Flow loss,300,300,0,0
+PT100 invalid,600,600,0,0
+HC-SR04 invalid,900,900,0,0
+K-type high temperature,1200,1200,0,0
